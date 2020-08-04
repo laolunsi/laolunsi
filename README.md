@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**laolunsi/laolunsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eknown/eknown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 你好 👋
+
+😄很高兴你点开了我的主页😄
+
+- 我是一名后端开发工程师。
+- 重点关注后端开发，数据安全，物联网，边缘计算等方向，欢迎交流。
+- 你可以通过邮箱联系我：eknown@163.com
+
+### Hi there 👋
+
+I'm so glad you could come.
+
+- 🔭 I’m a backend engineer
+- 🌱 I’m currently learning Java/Spring
+- 👯 I’m a host of website: [空夜's Blog](https://www.eknown.cn/)
+- 👯 I’m a host of official wechat account: @猿生物语（ID：JavaApes）
+- 📫 How to reach me: eknown@163.com
+
+[![eknown's github stats](https://github-readme-stats.vercel.app/api?username=laolunsi)](https://github.com/laolunsi)
+
