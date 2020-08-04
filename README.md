@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 😄很高兴你点开了我的主页😄
 
 - 我是一名后端开发工程师。
-- 重点关注后端开发，数据安全，物联网，边缘计算等方向，欢迎交流。
+- 重点关注后端开发，Java/Spring/微服务等方向，欢迎交流。
 - 你可以通过邮箱联系我：eknown@163.com
 
 ### Hi there 👋
