@@ -27,7 +27,7 @@ I'm so glad you could come.
 
 - 🔭 I’m a backend engineer
 - 🌱 I’m currently learning Java/Spring
-- 👯 I’m a host of website: [空夜's Blog](https://www.eknown.cn/)
+- 👯 I’m a host of website: [空夜's Blog](http://www.eknown.cn/)
 - 👯 I’m a host of official wechat account: @猿生物语（ID：JavaApes）
 - 📫 How to reach me: eknown@163.com
 
