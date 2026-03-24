@@ -26,15 +26,11 @@ status 使用：[![eknown's github stats](https://github-readme-stats.vercel.app
 
 ### Hi there 👋
 
-😄我是空夜，很高兴你点开了我的主页😄
-
 I'm so glad you could come.
 
 - 🔭 I’m a java backend engineer
 - 🌱 I’m currently learning Java/Spring/Micro-Services
-- 👯 I’m a host of website: [空夜's Blog](http://www.eknown.cn/)
-- 👯 I’m a host of official wechat account: @猿生物语（ID：JavaApes）
-- 📫 How to reach me: eknown@163.com
+- 👯 I’m a host of website: [kong's Blog](http://www.eknown.cn/)
 - [![eknown's github stats](https://github-readme-stats.vercel.app/api?username=laolunsi)](https://github.com/laolunsi)
 
 
